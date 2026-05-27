@@ -167,5 +167,67 @@
       "sessionId": 4,
       "sentAt": "2026-05-11T23:50"
     }
+  ],
+  "tutors": [
+    {
+      "id": 201,
+      "name": "Carlos Mendoza",
+      "university": "UPC",
+      "bio": "Estudiante de Ing. de Sistemas, 8vo ciclo. Especialista en matemáticas y estadística aplicada.",
+      "rating": 4.8,
+      "skills": ["Cálculo", "Álgebra", "Estadística"],
+      "available": true,
+      "avatarUrl": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": 202,
+      "name": "Ana Lucía Ríos",
+      "university": "PUCP",
+      "bio": "Ing. Informática 6to ciclo. Apasionada por la POO y el desarrollo de software de calidad.",
+      "rating": 4.6,
+      "skills": ["Python", "Java", "POO"],
+      "available": true,
+      "avatarUrl": "https://i.pravatar.cc/150?img=25"
+    },
+    {
+      "id": 203,
+      "name": "Diego Salazar",
+      "university": "UNI",
+      "bio": "Ing. Física, 7mo ciclo. Experto en mecánica clásica y termodinámica avanzada.",
+      "rating": 4.9,
+      "skills": ["Dinámica", "Termodinámica", "Óptica"],
+      "available": false,
+      "avatarUrl": "https://i.pravatar.cc/150?img=33"
+    },
+    {
+      "id": 204,
+      "name": "Sofía Paredes",
+      "university": "UP",
+      "bio": "Ing. de Sistemas, 9no ciclo. Especialista en bases de datos relacionales y NoSQL.",
+      "rating": 4.7,
+      "skills": ["SQL", "PostgreSQL", "MongoDB"],
+      "available": true,
+      "avatarUrl": "https://i.pravatar.cc/150?img=47"
+    },
+    {
+      "id": 205,
+      "name": "Miguel Torres",
+      "university": "UPC",
+      "bio": "Ing. de Software, 8vo ciclo. Frontend developer con experiencia en Angular y React.",
+      "rating": 4.5,
+      "skills": ["Angular", "TypeScript", "CSS"],
+      "available": true,
+      "avatarUrl": "https://i.pravatar.cc/150?img=51"
+    },
+    {
+      "id": 206,
+      "name": "Valeria López",
+      "university": "USIL",
+      "bio": "Filología Inglesa, 6to ciclo. Clases de inglés avanzado con enfoque en conversación.",
+      "rating": 4.8,
+      "skills": ["Inglés Avanzado", "Phrasal Verbs", "Writing"],
+      "available": true,
+      "avatarUrl": "https://i.pravatar.cc/150?img=44"
+    }
   ]
 }
