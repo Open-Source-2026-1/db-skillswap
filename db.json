@@ -229,5 +229,57 @@
       "available": true,
       "avatarUrl": "https://i.pravatar.cc/150?img=44"
     }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "tutorId": 201,
+      "learnerId": 101,
+      "learnerName": "Jazmín Rosas",
+      "rating": 5,
+      "comment": "Excelente tutor, explicó el tema de integrales de forma muy clara y paciente.",
+      "sessionId": 1,
+      "createdAt": "2026-06-10T12:00:00"
+    },
+    {
+      "id": 2,
+      "tutorId": 201,
+      "learnerId": 103,
+      "learnerName": "Luis Becerra",
+      "rating": 4,
+      "comment": "Muy buen manejo del tema, solo mejoraría la puntualidad.",
+      "sessionId": 3,
+      "createdAt": "2026-06-05T11:30:00"
+    },
+    {
+      "id": 3,
+      "tutorId": 202,
+      "learnerId": 102,
+      "learnerName": "Mireya Perales",
+      "rating": 5,
+      "comment": "Ana explicó POO de una forma que nunca había entendido tan bien. 100% recomendada.",
+      "sessionId": 2,
+      "createdAt": "2026-06-11T15:00:00"
+    },
+    {
+      "id": 4,
+      "tutorId": 203,
+      "learnerId": 104,
+      "learnerName": "Rafael Pacheco",
+      "rating": 5,
+      "comment": "Diego domina la física completamente, la clase de termodinámica fue increíble.",
+      "sessionId": 4,
+      "createdAt": "2026-06-12T17:00:00"
+    },
+    {
+      "id": 5,
+      "tutorId": 201,
+      "learnerId": 108,
+      "learnerName": "Santiago Vargas",
+      "rating": 4,
+      "comment": "Buena clase de estadística, los ejemplos prácticos ayudaron mucho.",
+      "sessionId": 8,
+      "createdAt": "2026-06-15T09:00:00"
+    }
   ]
 }
