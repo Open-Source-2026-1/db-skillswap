@@ -168,7 +168,7 @@
       "sentAt": "2026-05-11T23:50"
     }
   ],
-"tutors": [
+  "tutors": [
     {
       "id": 201,
       "name": "Carlos Mendoza",
@@ -181,7 +181,10 @@
         "Estadística"
       ],
       "available": true,
-      "avatarUrl": "https://i.pravatar.cc/150?img=12"
+      "avatarUrl": "https://i.pravatar.cc/150?img=12",
+      "specialty": "Matemáticas aplicadas",
+      "portfolioUrl": "https://github.com/carlosmendoza",
+      "yearsExperience": 2
     },
     {
       "id": 202,
@@ -195,7 +198,10 @@
         "POO"
       ],
       "available": true,
-      "avatarUrl": "https://i.pravatar.cc/150?img=25"
+      "avatarUrl": "https://i.pravatar.cc/150?img=25",
+      "specialty": "Programación Orientada a Objetos",
+      "portfolioUrl": "https://github.com/analuciarios",
+      "yearsExperience": 1
     },
     {
       "id": 203,
@@ -209,7 +215,9 @@
         "Óptica"
       ],
       "available": false,
-      "avatarUrl": "https://i.pravatar.cc/150?img=33"
+      "avatarUrl": "https://i.pravatar.cc/150?img=33",
+      "portfolioUrl": "",
+      "yearsExperience": 3
     },
     {
       "id": 204,
@@ -223,7 +231,10 @@
         "MongoDB"
       ],
       "available": true,
-      "avatarUrl": "https://i.pravatar.cc/150?img=47"
+      "avatarUrl": "https://i.pravatar.cc/150?img=47",
+      "specialty": "Bases de datos y modelado",
+      "portfolioUrl": "https://github.com/sofiaparedes",
+      "yearsExperience": 2
     },
     {
       "id": 205,
@@ -237,7 +248,10 @@
         "CSS"
       ],
       "available": true,
-      "avatarUrl": "https://i.pravatar.cc/150?img=51"
+      "avatarUrl": "https://i.pravatar.cc/150?img=51",
+      "specialty": "Desarrollo frontend",
+      "portfolioUrl": "https://github.com/migueltorres",
+      "yearsExperience": 2
     },
     {
       "id": 206,
@@ -251,7 +265,10 @@
         "Writing"
       ],
       "available": true,
-      "avatarUrl": "https://i.pravatar.cc/150?img=44"
+      "avatarUrl": "https://i.pravatar.cc/150?img=44",
+      "specialty": "Inglés avanzado y TOEFL",
+      "portfolioUrl": "",
+      "yearsExperience": 4
     },
     {
       "id": 207,
@@ -259,9 +276,16 @@
       "university": "UPCH",
       "bio": "Estudiante de Enfermería, 6to ciclo. Especialista en anatomía, farmacología y cuidados clínicos.",
       "rating": 4.7,
-      "skills": ["Anatomía", "Farmacología", "Enfermería Clínica"],
+      "skills": [
+        "Anatomía",
+        "Farmacología",
+        "Enfermería Clínica"
+      ],
       "available": true,
-      "avatarUrl": "https://i.pravatar.cc/150?img=32"
+      "avatarUrl": "https://i.pravatar.cc/150?img=32",
+      "specialty": "Enfermería clínica",
+      "portfolioUrl": "",
+      "yearsExperience": 1
     },
     {
       "id": 208,
@@ -269,9 +293,16 @@
       "university": "PUCP",
       "bio": "Comunicación Audiovisual, 7mo ciclo. Experto en producción de contenido, guión y edición.",
       "rating": 4.6,
-      "skills": ["Producción Audiovisual", "Guión", "Edición de Video"],
+      "skills": [
+        "Producción Audiovisual",
+        "Guión",
+        "Edición de Video"
+      ],
       "available": true,
-      "avatarUrl": "https://i.pravatar.cc/150?img=55"
+      "avatarUrl": "https://i.pravatar.cc/150?img=55",
+      "specialty": "Producción audiovisual",
+      "portfolioUrl": "https://behance.net/rodrigofuentes",
+      "yearsExperience": 2
     },
     {
       "id": 209,
@@ -279,9 +310,16 @@
       "university": "UP",
       "bio": "Ing. Empresarial, 8vo ciclo. Especialista en finanzas corporativas, macroeconomía y análisis financiero.",
       "rating": 4.9,
-      "skills": ["Finanzas", "Macroeconomía", "Contabilidad"],
+      "skills": [
+        "Finanzas",
+        "Macroeconomía",
+        "Contabilidad"
+      ],
       "available": true,
-      "avatarUrl": "https://i.pravatar.cc/150?img=16"
+      "avatarUrl": "https://i.pravatar.cc/150?img=16",
+      "specialty": "Finanzas corporativas",
+      "portfolioUrl": "",
+      "yearsExperience": 3
     },
     {
       "id": 210,
@@ -289,9 +327,16 @@
       "university": "USMP",
       "bio": "Derecho, 9no ciclo. Especialista en derecho civil, constitucional y contratos mercantiles.",
       "rating": 4.5,
-      "skills": ["Derecho Civil", "Derecho Constitucional", "Contratos"],
+      "skills": [
+        "Derecho Civil",
+        "Derecho Constitucional",
+        "Contratos"
+      ],
       "available": false,
-      "avatarUrl": "https://i.pravatar.cc/150?img=60"
+      "avatarUrl": "https://i.pravatar.cc/150?img=60",
+      "specialty": "Derecho civil y mercantil",
+      "portfolioUrl": "",
+      "yearsExperience": 2
     },
     {
       "id": 211,
@@ -299,9 +344,16 @@
       "university": "UNI",
       "bio": "Arquitectura, 7mo ciclo. Especialista en diseño arquitectónico, AutoCAD y modelado 3D.",
       "rating": 4.8,
-      "skills": ["Diseño Arquitectónico", "AutoCAD", "SketchUp"],
+      "skills": [
+        "Diseño Arquitectónico",
+        "AutoCAD",
+        "SketchUp"
+      ],
       "available": true,
-      "avatarUrl": "https://i.pravatar.cc/150?img=23"
+      "avatarUrl": "https://i.pravatar.cc/150?img=23",
+      "specialty": "Diseño y modelado 3D",
+      "portfolioUrl": "https://behance.net/luciavargas",
+      "yearsExperience": 3
     }
   ],
   "reviews": [
@@ -313,7 +365,8 @@
       "rating": 5,
       "comment": "Excelente tutor, explicó el tema de integrales de forma muy clara y paciente.",
       "sessionId": 1,
-      "createdAt": "2026-06-10T12:00:00"
+      "createdAt": "2026-06-10T12:00:00",
+      "tutorReply": ""
     },
     {
       "id": 2,
@@ -323,7 +376,8 @@
       "rating": 4,
       "comment": "Muy buen manejo del tema, solo mejoraría la puntualidad.",
       "sessionId": 3,
-      "createdAt": "2026-06-05T11:30:00"
+      "createdAt": "2026-06-05T11:30:00",
+      "tutorReply": ""
     },
     {
       "id": 3,
@@ -333,7 +387,8 @@
       "rating": 5,
       "comment": "Ana explicó POO de una forma que nunca había entendido tan bien. 100% recomendada.",
       "sessionId": 2,
-      "createdAt": "2026-06-11T15:00:00"
+      "createdAt": "2026-06-11T15:00:00",
+      "tutorReply": ""
     },
     {
       "id": 4,
@@ -343,7 +398,8 @@
       "rating": 5,
       "comment": "Diego domina la física completamente, la clase de termodinámica fue increíble.",
       "sessionId": 4,
-      "createdAt": "2026-06-12T17:00:00"
+      "createdAt": "2026-06-12T17:00:00",
+      "tutorReply": ""
     },
     {
       "id": 5,
@@ -353,7 +409,8 @@
       "rating": 4,
       "comment": "Buena clase de estadística, los ejemplos prácticos ayudaron mucho.",
       "sessionId": 8,
-      "createdAt": "2026-06-15T09:00:00"
+      "createdAt": "2026-06-15T09:00:00",
+      "tutorReply": ""
     }
   ]
 }
